@@ -1,0 +1,19 @@
+javaLesson1/Views/MyFrame.java
+ javaLesson1.Views.MyFrame
+ javaLesson1.Views.MyFrame$1
+javaLesson1/Views/LayoutFrame.java
+ javaLesson1.Views.LayoutFrame
+ javaLesson1.Views.LayoutFrame$1
+ javaLesson1.Views.LayoutFrame$2
+javaLesson1/Main.java
+ javaLesson1.Main
+javaLesson1/Views/DashboardFrame.java
+ javaLesson1.Views.DashboardFrame
+ javaLesson1.Views.DashboardFrame$1
+ javaLesson1.Views.DashboardFrame$2
+ javaLesson1.Views.DashboardFrame$3
+ javaLesson1.Views.DashboardFrame$4
+ javaLesson1.Views.DashboardFrame$5
+ javaLesson1.Views.DashboardFrame$6
+ javaLesson1.Views.DashboardFrame$7
+ javaLesson1.Views.DashboardFrame$8
